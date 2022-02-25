@@ -5,14 +5,14 @@ const chalk = require('chalk')
 global.self = false //jadiin true klo gk mau fitur bot lu di pke sama org lain
 
 // setting
-global.ownername ="ZeeoneOfc"
-global.ownernumber = "62887435047326"
-global.botname = "Haruka-Bot"
+global.ownername ="Xeyla"
+global.ownernumber = "6281211499250"
+global.botname = "Azila-Bot"
 global.thumbnail = fs.readFileSync("./settings/Haruka.jpg") //sesuaikan dengan nama foto
 global.background = "https://telegra.ph/file/d4c05638fa7886a1d8060.jpg"
 global.lolkey = 'RIFQIBOTZ' //apikey
 global.limit = {
-		free:20,
+		free:9999,
 		premium:1000
 	}
 global.session_name = "session.json"
